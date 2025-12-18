@@ -1,614 +1,164 @@
-## Hi there 👋
+<div align="center">
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Overview - Professional Profile</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        :root {
-            --primary-color: #2d333b;
-            --secondary-color: #22272e;
-            --accent-color: #539bf5;
-            --text-color: #cdd9e5;
-            --text-secondary: #768390;
-            --card-bg: rgba(34, 39, 46, 0.8);
-            --border-color: #444c56;
-            --success: #57ab5a;
-            --warning: #e09b13;
-            --danger: #e5534b;
-            --gradient: linear-gradient(135deg, #539bf5 0%, #9775fa 100%);
-        }
+<!-- Banner/Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=fadeIn" />
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
-        }
+<!-- Profile Intro -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME.svg?style=social&label=Follow)](https://github.com/YOUR_USERNAME)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
 
-        body {
-            background-color: var(--primary-color);
-            color: var(--text-color);
-            line-height: 1.6;
-            padding: 20px;
-            min-height: 100vh;
-        }
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">💻 [Your Title/Role] | 🚀 [Your Specialization] | 🌍 [Your Location]</h3>
 
-        .github-overview {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+<!-- GIF/Image -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            margin-bottom: 40px;
-            padding-bottom: 20px;
-            border-bottom: 1px solid var(--border-color);
-        }
+</div>
 
-        .profile-section {
-            display: flex;
-            align-items: center;
-            gap: 20px;
-            flex-wrap: wrap;
-        }
+---
 
-        .avatar {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            object-fit: cover;
-            border: 4px solid var(--accent-color);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-            transition: transform 0.3s ease;
-        }
+## 👨‍💻 About Me
 
-        .avatar:hover {
-            transform: scale(1.05);
-        }
+<p align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&count_private=true" width="48%" />
+</p>
 
-        .profile-info h1 {
-            font-size: 2.5rem;
-            margin-bottom: 5px;
-            background: var(--gradient);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+<br clear="both"/>
 
-        .profile-info p {
-            color: var(--text-secondary);
-            font-size: 1.2rem;
-            margin-bottom: 10px;
-        }
+I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. My journey in tech started [brief background story].
 
-        .profile-info .location {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            color: var(--text-secondary);
-            margin-top: 5px;
-        }
+- 🔭 I'm currently working on **[Current Project]**
+- 🌱 I'm currently learning **[Technology/Skill]**
+- 👯 I'm looking to collaborate on **[Type of Projects]**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 How to reach me: **[Your Email/Social Media]**
+- ⚡ Fun fact: **[Interesting Fact About You]**
+- 🎯 2024 Goals: **[Your Goals]**
 
-        .stats {
-            display: flex;
-            gap: 20px;
-            margin-top: 15px;
-        }
+---
 
-        .stat-item {
-            text-align: center;
-        }
+## 🛠️ Tech Stack & Tools
 
-        .stat-value {
-            font-size: 1.8rem;
-            font-weight: bold;
-            color: var(--accent-color);
-        }
+### 💻 **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-        .stat-label {
-            font-size: 0.9rem;
-            color: var(--text-secondary);
-        }
+### 🚀 **Frameworks & Libraries**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-        .theme-toggle {
-            background: var(--card-bg);
-            border: 1px solid var(--border-color);
-            color: var(--text-color);
-            padding: 8px 15px;
-            border-radius: 6px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            transition: all 0.3s;
-        }
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-        .theme-toggle:hover {
-            background: var(--border-color);
-        }
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-        .main-content {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 25px;
-            margin-bottom: 40px;
-        }
+### 🎨 **Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-        .card {
-            background: var(--card-bg);
-            border-radius: 12px;
-            padding: 25px;
-            border: 1px solid var(--border-color);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-        }
+---
 
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-        }
+## 📈 GitHub Analytics
 
-        .card h2 {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 20px;
-            font-size: 1.4rem;
-            color: var(--accent-color);
-        }
+<div align="center">
 
-        .card h2 i {
-            font-size: 1.2rem;
-        }
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-        .skills-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 15px;
-        }
+<!-- Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-        .skill-tag {
-            background: rgba(83, 155, 245, 0.1);
-            color: var(--accent-color);
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            border: 1px solid rgba(83, 155, 245, 0.3);
-            transition: all 0.3s;
-        }
+<!-- Trophy Stats -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-        .skill-tag:hover {
-            background: rgba(83, 155, 245, 0.2);
-            transform: scale(1.05);
-        }
+</div>
 
-        .project-item {
-            margin-bottom: 15px;
-            padding-bottom: 15px;
-            border-bottom: 1px solid var(--border-color);
-        }
+---
 
-        .project-item:last-child {
-            margin-bottom: 0;
-            padding-bottom: 0;
-            border-bottom: none;
-        }
+## 🏆 Featured Projects
 
-        .project-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 8px;
-        }
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **[Project 1](https://github.com/YOUR_USERNAME/project1)** | Brief description of your project | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project1?style=social) |
+| **[Project 2](https://github.com/YOUR_USERNAME/project2)** | Brief description of your project | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project2?style=social) |
+| **[Project 3](https://github.com/YOUR_USERNAME/project3)** | Brief description of your project | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/project3?style=social) |
 
-        .project-title {
-            font-weight: 600;
-            color: var(--accent-color);
-            text-decoration: none;
-            font-size: 1.1rem;
-        }
+---
 
-        .project-title:hover {
-            text-decoration: underline;
-        }
+## 📊 Contribution Metrics
 
-        .project-tag {
-            background: var(--secondary-color);
-            color: var(--text-secondary);
-            padding: 3px 8px;
-            border-radius: 12px;
-            font-size: 0.8rem;
-        }
+<!-- Contribution Snake -->
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 
-        .project-description {
-            color: var(--text-secondary);
-            font-size: 0.95rem;
-        }
+<!-- Wakatime Stats (Optional) -->
+<!--
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
+-->
 
-        .project-stats {
-            display: flex;
-            gap: 15px;
-            margin-top: 10px;
-            font-size: 0.9rem;
-        }
+<!-- Recent Activity -->
+### 🔥 Recent Activity
+<!--START_SECTION:activity-->
+<!-- This section will be auto-populated if you use GitHub Actions -->
+<!--END_SECTION:activity-->
 
-        .project-stat {
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            color: var(--text-secondary);
-        }
+---
 
-        .contact-links {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-        }
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- This section can be auto-populated using RSS feeds -->
+- [Post Title 1](https://yourblog.com/post1)
+- [Post Title 2](https://yourblog.com/post2)
+- [Post Title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
-        .contact-link {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            text-decoration: none;
-            color: var(--text-color);
-            padding: 12px 15px;
-            border-radius: 8px;
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid var(--border-color);
-            transition: all 0.3s;
-        }
+---
 
-        .contact-link:hover {
-            background: rgba(83, 155, 245, 0.1);
-            border-color: var(--accent-color);
-            transform: translateX(5px);
-        }
+## 📫 Connect With Me
 
-        .contact-link i {
-            font-size: 1.2rem;
-            color: var(--accent-color);
-            width: 24px;
-        }
+<div align="center">
 
-        .footer {
-            text-align: center;
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid var(--border-color);
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-        }
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/YOUR_DEVTO)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_SO_ID)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-        .highlight {
-            color: var(--accent-color);
-        }
+</div>
 
-        /* Dark/Light Theme Toggle */
-        body.light-theme {
-            --primary-color: #f6f8fa;
-            --secondary-color: #ffffff;
-            --text-color: #24292f;
-            --text-secondary: #57606a;
-            --card-bg: rgba(255, 255, 255, 0.9);
-            --border-color: #d0d7de;
-            --gradient: linear-gradient(135deg, #0969da 0%, #8250df 100%);
-        }
+---
 
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .header {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 20px;
-            }
+<div align="center">
 
-            .profile-info h1 {
-                font-size: 2rem;
-            }
+<!-- Visitor Counter -->
+![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
 
-            .avatar {
-                width: 100px;
-                height: 100px;
-            }
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 
-            .main-content {
-                grid-template-columns: 1fr;
-            }
+**Thanks for visiting my profile! Have a great day!** 😄
 
-            .stats {
-                justify-content: space-between;
-                width: 100%;
-            }
-        }
+⭐ **Don't forget to star some of my repositories if you find them useful!**
 
-        @media (max-width: 480px) {
-            .github-overview {
-                padding: 10px;
-            }
-
-            .profile-section {
-                flex-direction: column;
-                align-items: flex-start;
-            }
-
-            .stats {
-                flex-wrap: wrap;
-            }
-
-            .card {
-                padding: 20px;
-            }
-        }
-
-        /* Animation for stats */
-        @keyframes countUp {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        .animated-stat {
-            animation: countUp 0.8s ease-out;
-        }
-    </style>
-</head>
-<body>
-    <div class="github-overview">
-        <div class="header">
-            <div class="profile-section">
-                <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Profile Avatar" class="avatar">
-                <div class="profile-info">
-                    <h1>Alex Johnson</h1>
-                    <p>Full Stack Developer & Open Source Contributor</p>
-                    <div class="location">
-                        <i class="fas fa-map-marker-alt"></i>
-                        <span>San Francisco, CA</span>
-                    </div>
-                    <div class="stats">
-                        <div class="stat-item">
-                            <div class="stat-value" id="repo-count">24</div>
-                            <div class="stat-label">Repositories</div>
-                        </div>
-                        <div class="stat-item">
-                            <div class="stat-value" id="follower-count">142</div>
-                            <div class="stat-label">Followers</div>
-                        </div>
-                        <div class="stat-item">
-                            <div class="stat-value" id="following-count">86</div>
-                            <div class="stat-label">Following</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <button class="theme-toggle" id="themeToggle">
-                <i class="fas fa-moon"></i>
-                <span>Dark Mode</span>
-            </button>
-        </div>
-
-        <div class="main-content">
-            <div class="card">
-                <h2><i class="fas fa-user"></i> About Me</h2>
-                <p>I'm a passionate full-stack developer with 5+ years of experience building scalable web applications. I love open-source and contribute regularly to various projects.</p>
-                <p>Currently focused on <span class="highlight">React, Node.js, and Cloud Technologies</span>. Always eager to learn new technologies and collaborate on interesting projects.</p>
-                
-                <h3 style="margin-top: 20px; margin-bottom: 10px; font-size: 1.2rem;">Skills</h3>
-                <div class="skills-list">
-                    <span class="skill-tag">JavaScript</span>
-                    <span class="skill-tag">TypeScript</span>
-                    <span class="skill-tag">React</span>
-                    <span class="skill-tag">Node.js</span>
-                    <span class="skill-tag">Python</span>
-                    <span class="skill-tag">AWS</span>
-                    <span class="skill-tag">Docker</span>
-                    <span class="skill-tag">MongoDB</span>
-                    <span class="skill-tag">GraphQL</span>
-                    <span class="skill-tag">Kubernetes</span>
-                </div>
-            </div>
-
-            <div class="card">
-                <h2><i class="fas fa-code-branch"></i> Featured Projects</h2>
-                
-                <div class="project-item">
-                    <div class="project-header">
-                        <a href="#" class="project-title">React Dashboard Framework</a>
-                        <span class="project-tag">TypeScript</span>
-                    </div>
-                    <p class="project-description">A customizable admin dashboard framework built with React and TypeScript.</p>
-                    <div class="project-stats">
-                        <div class="project-stat">
-                            <i class="fas fa-star"></i>
-                            <span>342</span>
-                        </div>
-                        <div class="project-stat">
-                            <i class="fas fa-code-branch"></i>
-                            <span>45</span>
-                        </div>
-                        <div class="project-stat">
-                            <i class="fas fa-circle"></i>
-                            <span>Updated 2 days ago</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="project-item">
-                    <div class="project-header">
-                        <a href="#" class="project-title">E-commerce API</a>
-                        <span class="project-tag">Node.js</span>
-                    </div>
-                    <p class="project-description">A scalable REST API for e-commerce applications with payment integration.</p>
-                    <div class="project-stats">
-                        <div class="project-stat">
-                            <i class="fas fa-star"></i>
-                            <span>187</span>
-                        </div>
-                        <div class="project-stat">
-                            <i class="fas fa-code-branch"></i>
-                            <span>23</span>
-                        </div>
-                        <div class="project-stat">
-                            <i class="fas fa-circle"></i>
-                            <span>Updated 1 week ago</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="project-item">
-                    <div class="project-header">
-                        <a href="#" class="project-title">DevOps CLI Tool</a>
-                        <span class="project-tag">Python</span>
-                    </div>
-                    <p class="project-description">Command-line interface for automating deployment workflows across cloud providers.</p>
-                    <div class="project-stats">
-                        <div class="project-stat">
-                            <i class="fas fa-star"></i>
-                            <span>89</span>
-                        </div>
-                        <div class="project-stat">
-                            <i class="fas fa-code-branch"></i>
-                            <span>12</span>
-                        </div>
-                        <div class="project-stat">
-                            <i class="fas fa-circle"></i>
-                            <span>Updated 3 weeks ago</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card">
-                <h2><i class="fas fa-envelope"></i> Contact & Links</h2>
-                <div class="contact-links">
-                    <a href="mailto:alex@example.com" class="contact-link">
-                        <i class="fas fa-envelope"></i>
-                        <div>
-                            <div style="font-weight: 600;">Email</div>
-                            <div style="font-size: 0.9rem; color: var(--text-secondary);">alex@example.com</div>
-                        </div>
-                    </a>
-                    
-                    <a href="https://linkedin.com/in/alexjohnson" target="_blank" class="contact-link">
-                        <i class="fab fa-linkedin"></i>
-                        <div>
-                            <div style="font-weight: 600;">LinkedIn</div>
-                            <div style="font-size: 0.9rem; color: var(--text-secondary);">/in/alexjohnson</div>
-                        </div>
-                    </a>
-                    
-                    <a href="https://twitter.com/alexdev" target="_blank" class="contact-link">
-                        <i class="fab fa-twitter"></i>
-                        <div>
-                            <div style="font-weight: 600;">Twitter</div>
-                            <div style="font-size: 0.9rem; color: var(--text-secondary);">@alexdev</div>
-                        </div>
-                    </a>
-                    
-                    <a href="https://alexjohnson.dev" target="_blank" class="contact-link">
-                        <i class="fas fa-globe"></i>
-                        <div>
-                            <div style="font-weight: 600;">Portfolio Website</div>
-                            <div style="font-size: 0.9rem; color: var(--text-secondary);">alexjohnson.dev</div>
-                        </div>
-                    </a>
-                </div>
-                
-                <h3 style="margin-top: 25px; margin-bottom: 10px; font-size: 1.2rem;">Currently Learning</h3>
-                <div class="skills-list">
-                    <span class="skill-tag">Rust</span>
-                    <span class="skill-tag">WebAssembly</span>
-                    <span class="skill-tag">Edge Computing</span>
-                </div>
-            </div>
-        </div>
-
-        <div class="footer">
-            <p>© <span id="current-year">2023</span> Alex Johnson. All rights reserved.</p>
-            <p style="margin-top: 5px;">This profile is updated regularly. Last updated: <span id="current-date">June 2023</span></p>
-        </div>
-    </div>
-
-    <script>
-        // Theme Toggle
-        const themeToggle = document.getElementById('themeToggle');
-        const themeIcon = themeToggle.querySelector('i');
-        const themeText = themeToggle.querySelector('span');
-        
-        themeToggle.addEventListener('click', () => {
-            document.body.classList.toggle('light-theme');
-            
-            if (document.body.classList.contains('light-theme')) {
-                themeIcon.className = 'fas fa-sun';
-                themeText.textContent = 'Light Mode';
-            } else {
-                themeIcon.className = 'fas fa-moon';
-                themeText.textContent = 'Dark Mode';
-            }
-        });
-
-        // Animated Stats Counter
-        function animateCounter(element, target) {
-            let current = 0;
-            const increment = target / 50;
-            const timer = setInterval(() => {
-                current += increment;
-                if (current >= target) {
-                    element.textContent = target;
-                    element.classList.add('animated-stat');
-                    clearInterval(timer);
-                } else {
-                    element.textContent = Math.floor(current);
-                }
-            }, 30);
-        }
-
-        // Initialize counters when page loads
-        document.addEventListener('DOMContentLoaded', () => {
-            // Animate stats
-            animateCounter(document.getElementById('repo-count'), 24);
-            animateCounter(document.getElementById('follower-count'), 142);
-            animateCounter(document.getElementById('following-count'), 86);
-            
-            // Set current year and date
-            const currentYear = new Date().getFullYear();
-            document.getElementById('current-year').textContent = currentYear;
-            
-            const options = { year: 'numeric', month: 'long' };
-            const currentDate = new Date().toLocaleDateString('en-US', options);
-            document.getElementById('current-date').textContent = currentDate;
-            
-            // Add hover effects to skill tags
-            const skillTags = document.querySelectorAll('.skill-tag');
-            skillTags.forEach(tag => {
-                tag.addEventListener('mouseenter', function() {
-                    this.style.transform = 'scale(1.05)';
-                });
-                
-                tag.addEventListener('mouseleave', function() {
-                    this.style.transform = 'scale(1)';
-                });
-            });
-            
-            // Simulate real-time follower count update (for demo purposes)
-            setTimeout(() => {
-                const followerElement = document.getElementById('follower-count');
-                const newCount = parseInt(followerElement.textContent) + 1;
-                followerElement.textContent = newCount;
-                followerElement.classList.add('animated-stat');
-                
-                setTimeout(() => {
-                    followerElement.classList.remove('animated-stat');
-                }, 1000);
-            }, 5000);
-        });
-    </script>
-</body>
-</html>
+</div>
