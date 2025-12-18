@@ -1,16 +1,16 @@
 <div align="center">
   
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Prince Vincent
 
 **Front-End Developer | Graphic Designer | UI/UX Designer | Computer Operator**
 
-🎨 Creating beautiful, functional interfaces that users love
+🎨 Transforming ideas into beautiful, functional digital experiences
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
-[![Behance](https://img.shields.io/badge/-Behance-0056FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yourname)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/yourname)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prince-cord-cloud.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-vincent-337280393)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prince_vincent6)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creative_graphics06/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princevincent.dev@example.com)
 
 </div>
 
@@ -25,15 +25,17 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 
-### **Design Tools**
+### **Design & Creative**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=flat)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=white&style=flat)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX-FF6B6B?style=flat)
 
-### **Other Skills**
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-008000?style=flat)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Expert-FF6B6B?style=flat)
 
 ---
 
@@ -41,11 +43,11 @@
 
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_title=true)
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince-cord-cloud&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-cord-cloud&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=prince-cord-cloud&theme=radical&hide_border=true)
 
 </div>
 
@@ -53,42 +55,30 @@
 
 ## 🎨 Featured Projects
 
-### **Web Applications**
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[E-commerce UI](https://github.com/YOUR_USERNAME/ecommerce-ui)** | Modern e-commerce interface with cart functionality | React, Tailwind |
-| **[Portfolio Website](https://github.com/YOUR_USERNAME/portfolio)** | Responsive portfolio with dark/light mode | HTML, CSS, JS |
-| **[Dashboard UI](https://github.com/YOUR_USERNAME/admin-dashboard)** | Admin dashboard with analytics | React, Chart.js |
+### **Web Development**
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Modern Portfolio](https://github.com/prince-cord-cloud)** | Responsive portfolio website | HTML, CSS, JS |
+| **[E-commerce UI](https://github.com/prince-cord-cloud)** | Shopping interface design | React, Tailwind |
+| **[Dashboard Template](https://github.com/prince-cord-cloud)** | Admin dashboard UI | HTML, CSS |
 
 ### **Design Work**
 | Project | Type | Tools |
 |---------|------|-------|
-| **Mobile App Design** | UI/UX for fitness app | Figma, Adobe XD |
-| **Brand Identity** | Logo & branding for startup | Illustrator, Photoshop |
-| **Website Redesign** | Complete website redesign | Figma, Photoshop |
+| **Creative Graphics** | Social media designs | Photoshop, Illustrator |
+| **UI/UX Concepts** | Mobile app interfaces | Figma |
+| **Brand Identity** | Logo & branding designs | Adobe Suite |
 
 ---
 
-## 📫 Let's Connect
+## 🌟 What I Do
 
-I'm always open to:
-- 💼 Front-end development opportunities
-- 🎨 UI/UX design projects
-- 🤝 Collaborations on creative projects
-- 📚 Learning new design trends
-
-**Quick Links:**
-- 📁 [Portfolio](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 🎨 [Behance/Dribbble](https://behance.net/yourname)
-- 📧 you@email.com
-
----
-
-<div align="center">
-
-⭐ **Check out my repositories for more projects!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
-
-</div>
+```javascript
+const prince = {
+  role: "Front-End Developer & Designer",
+  skills: ["UI/UX Design", "Responsive Web Design", "Graphic Design"],
+  tools: ["React", "Figma", "Adobe Suite", "Git"],
+  passion: "Creating beautiful user experiences",
+  currentlyLearning: ["Advanced React", "TypeScript"],
+  lookingFor: "Creative collaborations & exciting projects"
+};
