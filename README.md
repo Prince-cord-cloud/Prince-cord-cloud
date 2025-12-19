@@ -1,12 +1,12 @@
 <div align="center">
 
 # 👋 Hi, I'm Prince Vincent  
-**Front-End Developer & Designer**  
+**Front-End Developer & UI/UX Designer**  
 *Crafting digital experiences with code and creativity*
 
-[🌐 Portfolio](https://prince-cord-cloud.github.io) · 
-[📸 Instagram](https://www.instagram.com/creative_graphics06/) · 
-[💼 LinkedIn](https://linkedin.com/in/prince-vincent-337280393)
+[🌐 Portfolio](https://prince-creative-graphics-com.vercel.app/) · 
+[💼 LinkedIn](https://www.linkedin.com/in/prince-vincent-337280393) · 
+[📸 Instagram](https://www.instagram.com/creative_graphics06/)
 
 </div>
 
@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-**Design**  
+**Design Tools**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
@@ -30,21 +30,41 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince-cord-cloud&show_icons=true&theme=dark&hide_border=true)
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-cord-cloud&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-cord-cloud&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+**Primary Contact:**  
+📧 [princecreativegraphics@gmail.com](mailto:princecreativegraphics@gmail.com)  
+📧 [softedgetech06@gmail.com](mailto:softedgetech06@gmail.com)
+
+**Messaging:**  
+📱 [WhatsApp 1](https://wa.me/2349075634424)  
+📱 [WhatsApp 2](https://wa.me/2347069943790)
+
+**Social:**  
+🐦 [Twitter/X](https://twitter.com/prince_vincent6)  
+👥 [Facebook](https://www.facebook.com/taylorswiftr)  
+💻 [GitHub](https://github.com/Prince-cord-cloud)
 
 ---
 
 ## 💼 What I Do
 
-- **Front-End Development** – Responsive websites with React & modern CSS
-- **UI/UX Design** – User-centered interfaces in Figma
-- **Graphic Design** – Branding, logos, and marketing visuals
+- **Front-End Development** – Building responsive web applications
+- **UI/UX Design** – Creating intuitive user interfaces
+- **Graphic Design** – Branding, logos, and digital visuals
+- **Full project collaboration** – From concept to deployment
 
 ---
 
 <div align="center">
 
-📧 **Let's connect:** [prince.creative@example.com](mailto:prince.creative@example.com)  
-⭐ **Check my work below**
+*Open for collaborations and freelance projects*  
+⭐ **Explore my repositories below!**
 
 </div>
