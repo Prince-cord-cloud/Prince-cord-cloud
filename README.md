@@ -14,25 +14,20 @@
 
 ## 🛠 Tech Stack
 
-**Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-
-**Design Tools**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+**Front-End Development:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Responsive Design  
+**UI/UX & Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator, Wireframing, Prototyping  
+**Development Tools:** Git, GitHub, VS Code, Chrome DevTools  
+**Currently Learning:** TypeScript, Next.js, Advanced React Patterns
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-cord-cloud&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+I actively contribute to projects focusing on web development, UI/UX design implementations, and creative coding solutions. My repositories showcase practical applications of modern front-end technologies with clean, user-centered design principles.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-cord-cloud&layout=compact&theme=dark&hide_border=true)
+- **Total Contributions:** Regular commits across personal and collaborative projects
+- **Focus Areas:** React components, responsive layouts, design systems, and interactive web experiences
+- **Project Types:** Portfolio websites, UI templates, design implementations, and utility tools
 
 ---
 
@@ -55,16 +50,24 @@
 
 ## 💼 What I Do
 
-- **Front-End Development** – Building responsive web applications
-- **UI/UX Design** – Creating intuitive user interfaces
-- **Graphic Design** – Branding, logos, and digital visuals
-- **Full project collaboration** – From concept to deployment
+- **Front-End Development** – Building responsive, performant web applications using modern JavaScript frameworks and best practices
+- **UI/UX Design** – Creating intuitive, accessible user interfaces with user-centered design principles
+- **Graphic Design** – Developing brand identities, marketing visuals, and digital assets
+- **Full Project Collaboration** – Working with clients from concept and wireframing to deployment and maintenance
+- **Code-to-Design Implementation** – Translating design mockups into functional, pixel-perfect code
+
+**Specializations:**
+- Custom React component development
+- Responsive CSS layouts and animations
+- UI/UX prototyping and testing
+- Brand identity development
+- Performance optimization
 
 ---
 
 <div align="center">
 
-*Open for collaborations and freelance projects*  
-⭐ **Explore my repositories below!**
+*Open for collaborations, freelance projects, and design-development partnerships*  
+⭐ **Explore my repositories for practical examples of my work!**
 
 </div>
