@@ -15,6 +15,7 @@
 ## 🛠 Tech Stack
 
 **Front-End Development:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Responsive Design  
+**Backend Development:** Node.js, Express.js, PostgreSQL, MongoDB, JWT, REST API
 **UI/UX & Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator, Wireframing, Prototyping  
 **Development Tools:** Git, GitHub, VS Code, Chrome DevTools  
 **Currently Learning:** TypeScript, Next.js, Advanced React Patterns
