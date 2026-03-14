@@ -4,8 +4,8 @@
 **Front-End Developer, Back-End Developer, & UI/UX Designer**  
 *Crafting digital experiences with code and creativity, Building robust server-side solutions and scalable APIs*
 
-[🌐 Portfolio](https://prince-creative-graphics-com.vercel.app/) · 
-[💼 LinkedIn](https://www.linkedin.com/in/prince-vincent-337280393) · 
+[Portfolio](https://prince-creative-graphics-com.vercel.app/) · 
+[LinkedIn](https://www.linkedin.com/in/prince-vincent-337280393) · 
 [📸 Instagram](https://www.instagram.com/creative_graphics06/)
 
 </div>
@@ -40,13 +40,13 @@ I actively contribute to projects focusing on web development, UI/UX design impl
 📧 [softedgetech06@gmail.com](mailto:softedgetech06@gmail.com)
 
 **Messaging:**  
-📱 [WhatsApp 1](https://wa.me/2349075634424)  
-📱 [WhatsApp 2](https://wa.me/2347069943790)
+[WhatsApp 1](https://wa.me/2349075634424)  
+[WhatsApp 2](https://wa.me/2347069943790)
 
 **Social:**  
-🐦 [Twitter/X](https://twitter.com/prince_vincent6)  
-👥 [Facebook](https://www.facebook.com/taylorswiftr)  
-💻 [GitHub](https://github.com/Prince-cord-cloud)
+[Twitter/X](https://twitter.com/prince_vincent6)  
+[Facebook](https://www.facebook.com/taylorswiftr)  
+[GitHub](https://github.com/Prince-cord-cloud)
 
 ---
 
