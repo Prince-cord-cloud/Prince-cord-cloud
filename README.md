@@ -1,8 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Prince Vincent  
-**Front-End Developer & UI/UX Designer**  
-*Crafting digital experiences with code and creativity*
+**Front-End Developer, Back-End Developer, & UI/UX Designer**  
+*Crafting digital experiences with code and creativity, Building robust server-side solutions and scalable APIs*
 
 [🌐 Portfolio](https://prince-creative-graphics-com.vercel.app/) · 
 [💼 LinkedIn](https://www.linkedin.com/in/prince-vincent-337280393) · 
@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 
 **Front-End Development:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Responsive Design  
-**Backend Development:** Node.js, Express.js, MongoDB, API Request
+**Backend Development:** Node.js, Express.js, MongoDB, RESTful APIs, JWT, SQL (MySQL/PostgreSQL)
 **UI/UX & Design Tools:** Figma, Adobe Photoshop, Adobe Illustrator, Wireframing, Prototyping  
 **Development Tools:** Git, GitHub, VS Code, Chrome DevTools  
 **Currently Learning:** TypeScript, Next.js, Advanced React Patterns
@@ -29,8 +29,8 @@ I actively contribute to projects focusing on web development, UI/UX design impl
 
 - **Total Contributions:** Regular commits across personal and collaborative projects
 - **Focus Areas:** React components, responsive layouts, design systems, and interactive web experiences
-- **Project Types:** Portfolio websites, UI templates, design implementations, and utility tools
-
+- **Project Types:** Portfolio websites, UI templates, design implementations, and utility tools, Real‑time applications, microservices, and full‑stack integrations with modern front‑ends
+- **Primary Focus:** Node.js/Express backends, MongoDB schema design, authentication systems, REST API development
 ---
 
 ## 📫 Connect With Me
@@ -53,6 +53,7 @@ I actively contribute to projects focusing on web development, UI/UX design impl
 ## 💼 What I Do
 
 - **Front-End Development** – Building responsive, performant web applications using modern JavaScript frameworks and best practices
+- **Back-End Development** –  Designing and building RESTful APIs, database models, and server logic using Node.js and Express
 - **UI/UX Design** – Creating intuitive, accessible user interfaces with user-centered design principles
 - **Graphic Design** – Developing brand identities, marketing visuals, and digital assets
 - **Full Project Collaboration** – Working with clients from concept and wireframing to deployment and maintenance
@@ -64,6 +65,10 @@ I actively contribute to projects focusing on web development, UI/UX design impl
 - UI/UX prototyping and testing
 - Brand identity development
 - Performance optimization
+- Custom API development
+- User authentication (JWT, sessions)
+- Database design (MongoDB)
+- Deployment and server management
 
 ---
 
