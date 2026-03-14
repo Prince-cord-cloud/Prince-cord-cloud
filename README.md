@@ -6,7 +6,7 @@
 
 [Portfolio](https://prince-creative-graphics-com.vercel.app/) · 
 [LinkedIn](https://www.linkedin.com/in/prince-vincent-337280393) · 
-[📸 Instagram](https://www.instagram.com/creative_graphics06/)
+[Instagram](https://www.instagram.com/creative_graphics06/)
 
 </div>
 
