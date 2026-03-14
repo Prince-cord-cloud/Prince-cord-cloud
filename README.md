@@ -36,8 +36,8 @@ I actively contribute to projects focusing on web development, UI/UX design impl
 ## 📫 Connect With Me
 
 **Primary Contact:**  
-📧 [princecreativegraphics@gmail.com](mailto:princecreativegraphics@gmail.com)  
-📧 [softedgetech06@gmail.com](mailto:softedgetech06@gmail.com)
+[princecreativegraphics@gmail.com](mailto:princecreativegraphics@gmail.com)  
+[softedgetech06@gmail.com](mailto:softedgetech06@gmail.com)
 
 **Messaging:**  
 [WhatsApp 1](https://wa.me/2349075634424)  
