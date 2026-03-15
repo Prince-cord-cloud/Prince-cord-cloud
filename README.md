@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Prince Vincent  
-**Front-End Developer, Back-End Developer, & UI/UX Designer**  
+**Front-End Developer, Back-End Developer, MERN Stack Developer, & UI/UX / Graphic Designer**  
 *Crafting digital experiences with code and creativity, Building robust server-side solutions and scalable APIs*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prince-creative-graphics-com.vercel.app/)
