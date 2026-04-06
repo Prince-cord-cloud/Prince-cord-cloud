@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="30" /> Hi, I'm Prince Vincent
+# <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f44b.png" width="30" /> Hi, I'm Prince Vincent
 **Front-End Developer, Back-End Developer, MERN Stack Developer, & UI/UX / Graphic Designer**  
 *Crafting digital experiences with code and creativity, Building robust server-side solutions and scalable APIs*
 
